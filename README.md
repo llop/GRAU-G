@@ -1,6 +1,6 @@
 # GRAU-G (Gràfics)
 
-**G - Q1 2015-2016 - FIB UPC**
+**G - FIB UPC - Q1 2015-2016**
 
 Laboratoris amb OpenGL 3
 
